@@ -3,7 +3,8 @@
 I'm **[JISHNU  K SANTHOSH](https://www.linkedin.com/in/jishnu-k-santhosh-744200317 )**,
 
 <details>
-  <summary>More about me</summary>**Name:JISHNU K SANTHOSH**: PROGRAMMER*AI SPECIALIST*SOCIAL ENGINEERING**
+  <summary>More about me</summary Name:JISHNU K SANTHOSH
+  skills: PROGRAMMER,AI SPECIALIST,SOCIAL ENGINEERING.
 - I have experience in coding and social engineering.
 - Continuously improving my knowledge.
 - I’m currently learning and explore advanced coding and  Artificial Intelligence **.
