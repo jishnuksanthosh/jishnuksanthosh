@@ -47,6 +47,6 @@ https://www.linkedin.com/in/jishnu-k-santhosh-744200317
 
 | **Project**      | **Description**                                                                                  |
 |-------------------|--------------------------------------------------------------------------------------------------|
-| **[emergency mess technology app]()**    | FixITNow is a mobile-based application that helps students and staff report campus infrastructure issues quickly and efficiently. It improves communication and enables faster resolution of maintenance problems within the campus. |
+| **[emergency mess technology app]()**    |  Emergency Mess Technology is a safety system that instantly sends emergency alerts and the user's live location to predefined contacts for quick assistance during critical situations.. |
 
 ---
